@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cat_001",
+    "name": "Roofing Sheets",
+    "description": "Corrugated and flat roofing sheets for all applications",
+    "productCount": 150,
+    "icon": "🏠"
+  },
+  {
+    "id": "cat_002",
+    "name": "Gutters & Downpipes",
+    "description": "Drainage systems and gutters",
+    "productCount": 45,
+    "icon": "💧"
+  },
+  {
+    "id": "cat_003",
+    "name": "Fasteners",
+    "description": "Screws, bolts, and fastening hardware",
+    "productCount": 120,
+    "icon": "🔩"
+  },
+  {
+    "id": "cat_004",
+    "name": "Accessories",
+    "description": "Flashings, ridges, and other accessories",
+    "productCount": 85,
+    "icon": "🔧"
+  }
+]

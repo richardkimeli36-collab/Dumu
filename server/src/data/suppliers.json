@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sup_001",
+    "name": "Mabati Rolling Mills SKE",
+    "location": "Nairobi, Kenya",
+    "productCount": 85,
+    "rating": 4.7,
+    "verified": true
+  },
+  {
+    "id": "sup_002",
+    "name": "Ruiru Mabati Factory",
+    "location": "Ruiru, Kenya",
+    "productCount": 72,
+    "rating": 4.5,
+    "verified": true
+  },
+  {
+    "id": "sup_003",
+    "name": "Quality Roofing Solutions",
+    "location": "Mombasa, Kenya",
+    "productCount": 45,
+    "rating": 4.3,
+    "verified": true
+  }
+]

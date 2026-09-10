@@ -1,0 +1,88 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Corrugated Roofing Sheet - 26 Gauge",
+    "description": "High-quality corrugated metal roofing sheet, 3 meters long",
+    "longDescription": "Premium corrugated roofing sheet made from high-quality galvanized steel. Perfect for residential and commercial roofing projects. Features excellent durability and weather resistance.",
+    "price": 2500,
+    "currency": "KES",
+    "category": "Roofing Sheets",
+    "supplier": "Mabati Rolling Mills SKE",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x600?text=Roofing+Sheet+1",
+        "alt": "Corrugated roofing sheet front view",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "specs": [
+      { "key": "Length", "value": "3 meters" },
+      { "key": "Gauge", "value": "26" },
+      { "key": "Material", "value": "Galvanized Steel" },
+      { "key": "Warranty", "value": "5 years" }
+    ],
+    "inStock": true,
+    "rating": 4.5,
+    "reviews": 124,
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "prod_002",
+    "name": "Corrugated Roofing Sheet - 24 Gauge",
+    "description": "Premium corrugated metal roofing sheet, extra durable",
+    "longDescription": "Extra durable corrugated roofing sheet with thicker gauge for enhanced strength. Ideal for heavy-duty applications and extreme weather conditions.",
+    "price": 3200,
+    "currency": "KES",
+    "category": "Roofing Sheets",
+    "supplier": "Mabati Rolling Mills SKE",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x600?text=Roofing+Sheet+3",
+        "alt": "Premium roofing sheet",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "specs": [
+      { "key": "Length", "value": "3 meters" },
+      { "key": "Gauge", "value": "24" },
+      { "key": "Material", "value": "Galvanized Steel" },
+      { "key": "Warranty", "value": "10 years" }
+    ],
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 89,
+    "createdAt": "2024-01-16T10:30:00Z",
+    "updatedAt": "2024-01-16T10:30:00Z"
+  },
+  {
+    "id": "prod_003",
+    "name": "Steel Gutters - 150mm",
+    "description": "Durable steel gutters for effective water drainage",
+    "longDescription": "High-quality steel gutters designed for efficient water drainage. Seamless construction for maximum durability and minimal maintenance.",
+    "price": 1800,
+    "currency": "KES",
+    "category": "Gutters",
+    "supplier": "Ruiru Mabati Factory",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x600?text=Gutters",
+        "alt": "Steel gutters",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "specs": [
+      { "key": "Width", "value": "150mm" },
+      { "key": "Length", "value": "3 meters" },
+      { "key": "Material", "value": "Galvanized Steel" }
+    ],
+    "inStock": true,
+    "rating": 4.3,
+    "reviews": 56,
+    "createdAt": "2024-01-17T10:30:00Z",
+    "updatedAt": "2024-01-17T10:30:00Z"
+  }
+]
